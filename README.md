@@ -1,6 +1,6 @@
 README
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ian
 
 🎯 **Machine Learning Enthusiast | Open Source Contributor | Cybersecurity Advocate**  
 💡 Building projects that combine data-driven intelligence with secure, ethical design.
